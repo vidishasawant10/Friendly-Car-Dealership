@@ -14,3 +14,5 @@ Softwares:
 3) Microsoft Project
 
 The purpose of this project was to design and implement a functional relational database management system that can handle car dealerships' data, including customer information, inventory, staff information.
+
+Each chapter documentation and queries for each chapter are included in the chapter folder.
